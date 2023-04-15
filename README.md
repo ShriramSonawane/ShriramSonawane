@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **shriramsonawane143@gmail.com**
 
+- 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1RqhboWEE6lr8mqRE4DZiwDBtN_4YT7L_/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shriramsonawane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shriramsonawane" height="30" width="40" /></a>
