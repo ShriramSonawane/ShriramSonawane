@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shriram Sonawane</h1>
 <h3 align="center">Competitive Programmer, Full Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React⚛️**
 
-- 💬 Ask me about **Competitive Programming**
+- 💬 Ask me about **Competitive Programming🏆**
 
 - 📫 How to reach me **shriramsonawane143@gmail.com**
 
